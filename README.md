@@ -17,8 +17,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Codigo abierto**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
+- 👨 Know more about me at [Sourcerer](https://www.linkedin.com/in/otniel-jes%C3%A9-6051a61a1/) 
+- 🌐 Visit my [porfolio website](https://www.linkedin.com/in/otniel-jes%C3%A9-6051a61a1/) for complete background and contact.
   </div>
 
 <h3> 🛠 &nbsp;Tools & tech</h3>
