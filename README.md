@@ -11,7 +11,7 @@
 
 
   
-- :school: I'm [Otniel Jesé](https://keshavsingh4522.github.io/) First year student in programming, in at <a href="https://jecrcfoundation.com/">@CIBERTEC  </a>
+- :school: I'm [Otniel Jesé](https://github.com/OtnielJese) First year student in programming, in at <a href="https://github.com/OtnielJese">@CIBERTEC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
 - 💬 Ask me about anything, I am happy to help
